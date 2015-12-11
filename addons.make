@@ -1,0 +1,10 @@
+ofxAbletonLive
+ofxAubio
+ofxCsv
+ofxDmx
+ofxGenericDmx
+ofxGui
+ofxJSON
+ofxNetwork
+ofxOpenCv
+ofxOsc
